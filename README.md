@@ -22,7 +22,7 @@ So, let's explore data together!
 - **Bachelor's** in _Psychology_, University of Genoa
 
 
-## Tech Toolbox 💻
+## Technical Skills 💻
 
 #### Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
@@ -45,11 +45,17 @@ So, let's explore data together!
 ![JASP](https://img.shields.io/badge/-JASP-000000?style=flat-square&logo=jasp&logoColor=white)
 
 
-## Useful Links
+## Soft Skills 🗣️
+
+- **Effective communication** demonstrated through scientific publications and international presentations.
+- **Analytical skills** and **problem-solving**, applied to the management and interpretation of complex data.
+- **Quick learner** of new technologies and analytical methods.
+
+
+## Feel free to reach out!
 📧 **Email:** [stefano.gonan@gmail.com](mailto:stefano.gonan@gmail.com)  
 🔗 **LinkedIn:** [Stefano Gonan](https://it.linkedin.com/in/stefano-gonan-248966158)  
 👨‍💻 **GitHub:** [GitHub](https://github.com/StefanoGonan)
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=StefanoGonan.StefanoGonan)
-
