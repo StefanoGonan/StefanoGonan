@@ -46,7 +46,6 @@ So, let's explore data together!
 
 
 ## Useful Links
-📍 **Italy**  
 📧 **Email:** [stefano.gonan@gmail.com](mailto:stefano.gonan@gmail.com)  
 🔗 **LinkedIn:** [Stefano Gonan](https://it.linkedin.com/in/stefano-gonan-248966158)  
 👨‍💻 **GitHub:** [GitHub](https://github.com/StefanoGonan)
